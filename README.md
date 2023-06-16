@@ -1,4 +1,5 @@
 # Raspberry Pi Pico Docker SDK
+![Docker Image Build](https://github.com/ucsbdeepspace/raspberry-pi-pico-docker-sdk/actions/workflows/docker.yml/badge.svg)
 
 Lightweight Raspberry Pi Pico C++ SDK container.
 
